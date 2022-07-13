@@ -1,2 +1,2 @@
 # Minesweeper-in-Excel
-Coded in VBA-enables Macros in Microsoft Excel
+Coded in VBA-enabled Macros in Microsoft Excel
